@@ -1,4 +1,4 @@
 function greet() {
     alert("hello");
 }
-document.body.style.backgroundColor = "green";
+document.body.style.backgroundColor = "violet";
